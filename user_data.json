@@ -1,0 +1,11 @@
+{
+    "username": {
+        "auth_tokens": [
+            {
+                "03/31/2022": "FU1I2PMR7DJD5OV4JRXZM2FYP4D1ZWV1"
+            }
+        ],
+        "password": "$2a$10$8pdxpTvRbUxmacA9woPOZullqDVWNA/mdsEWzfgWUgeM3zumRrDyK",
+        "profile-picture": "https://avatars.dicebear.com/api/identicon/username.svg"
+}
+}

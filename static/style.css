@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(to right top, #000000, #400728, #75005b, #9f00a3, #b100ff);
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+.text_field1 {
+     padding: 5px;
+     font-size: 16px;
+     border-width: 3px;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     color: #000000;
+     border-style: solid;
+     border-radius: 18px;
+     box-shadow: 0px 0px 5px rgba(66,66,66,.75);
+     text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+ .text_field1:focus {
+     outline:none;
+}
+
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
